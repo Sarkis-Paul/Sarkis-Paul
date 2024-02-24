@@ -1,4 +1,9 @@
 ### Hi there 👋
+I am Sarkis Paul Shadarevian, a tech enthusiast with a background in Engineering, Data Science, Research and entrepreneurship.
+
+- 🔭 I’m currently completing a Research Engineering Industrial Placement at Gill Research & Development
+- 🌱 I’m currently completing a Data Science skills bootcamp by CoGrammar
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/sarkis-paul-shadarevian-275770a4/) 
 
 <!--
 **Sarkis-Paul/Sarkis-Paul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
