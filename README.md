@@ -1,7 +1,7 @@
 ### Hi there 👋
 I am Sarkis Paul Shadarevian, a tech enthusiast with a background in Engineering, Data Science, Research and Entrepreneurship.
 
-- 🔭 I’m currently completing my Integrated Masters in Mechanical Engineering at Imperial College London
+- 🔭 I’m currently completing my masters in Mechanical Engineering at Imperial College London
 - 🌱 I’m the cofounder of AmmonAI, a startup that uses AI technology to guide farmers on their crop fertilisation practices
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/sarkis-paul-shadarevian-275770a4/) 
 
