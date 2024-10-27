@@ -1,8 +1,8 @@
 ### Hi there 👋
-I am Sarkis Paul Shadarevian, a tech enthusiast with a background in Engineering, Data Science, Research and entrepreneurship.
+I am Sarkis Paul Shadarevian, a tech enthusiast with a background in Engineering, Data Science, Research and Entrepreneurship.
 
-- 🔭 I’m currently completing a Research Engineering Industrial Placement at Gill Research & Development
-- 🌱 I’m currently completing a Data Science skills bootcamp by CoGrammar
+- 🔭 I’m currently completing my Integrated Masters in Mechanical Engineering at Imperial College London
+- 🌱 I’m the cofounder of AmmonAI, a startup that uses AI technology to guide farmers on their crop fertilisation practices
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/sarkis-paul-shadarevian-275770a4/) 
 
 <!--
