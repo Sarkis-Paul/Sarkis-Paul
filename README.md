@@ -2,8 +2,8 @@
 I am Sarkis Paul Shadarevian, a tech enthusiast with a background in Engineering, Data Science, Research and Entrepreneurship.
 
 - ⚡ I currently work in Technology Consulting at Deloitte and my work revolves around AI Scaling and Governance.
-- 🔭 I have completed an integrated masters in Mechanical Engineering with a Year In Industry (MEng) at Imperial College London
-- 🌱 I’m the cofounder of AmmonAI, a startup that uses AI technology to guide farmers on their crop fertilisation practices
+- 🔭 I have completed an integrated masters in Mechanical Engineering with a Year In Industry (MEng) at Imperial College London.
+- 🌱 I’m the cofounder of AmmonAI, a startup that uses AI technology to guide farmers on their crop fertilisation practices.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/sarkis-paul-shadarevian-275770a4/) 
 
 <!--
